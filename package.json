@@ -4,7 +4,7 @@
   "description": "A simple RESTful API for a notepad that uses MongoDB as its database and Express JS as its back-end framework.",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
