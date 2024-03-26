@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MahdiBehoftadeh/expressjs-notepad-rest-api#readme",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.19.1",
     "mongoose": "^8.2.3"
   },
